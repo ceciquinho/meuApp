@@ -47,7 +47,7 @@ import router from '@/router';
   font-size: 16px;
   line-height: 22px;
  
-  color: #8c8c8c;
+  color: #00ffaa;
  
   margin: 0;
 }
